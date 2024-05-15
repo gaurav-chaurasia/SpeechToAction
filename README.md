@@ -3,7 +3,7 @@
 ### Description & Problem Statement
 This application harnesses the power of LLMs to extract the context from a given text and convert it into executable action to fetch all kind of data from the instance as per permission & access defined for the user from the mobile application.
 
-### Documentations & Design Doc
+### Documentations
 [SayNow - HackathonProject - MindMap.pdf](https://github.com/gaurav-chaurasia/SpeechToAction/files/14865165/SayNow.-.HackathonProject.-.MindMap.pdf)    
 [SayNow - HackathonProject - Flow.pdf](https://github.com/gaurav-chaurasia/SpeechToAction/files/14865174/SayNow.-.HackathonProject.-.Flow.pdf)     
 [SayNow - HackathonProject - Prototype.pdf](https://github.com/gaurav-chaurasia/SpeechToAction/files/14865175/SayNow.-.HackathonProject.-.Prototype.pdf)
